@@ -5,7 +5,7 @@
 ##### NOW
 
 - 👨🏽‍💻 I am a community organizer [GDG Cloud Munich](https://gdg.community.dev/gdg-cloud-munich/);
-- 🇧🇷 I live in Brazil (my homeland) between December and February;
+- 🇧🇷 *Between December and February,* I live in Brazil (my homeland);
 
 ##### BIO
 

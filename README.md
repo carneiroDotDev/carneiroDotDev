@@ -17,6 +17,7 @@
 [
 - 👨🏽‍💻 I am a community organizer [GDG Cloud Munich](https://gdg.community.dev/gdg-cloud-munich/);
 - 🇧🇷 There is a homeland called <Brazil>, and you should check it out ;)
+
 ]
 
 ##### BIO
@@ -27,4 +28,5 @@
 - 💬 Ping me about **development**, **community**, **science**;
 - 📫 Reach me: [@ Twitter](https://twitter.com/carneiroDotDev) or [@ LinkedIn](https://www.linkedin.com/in/carneirodotdev/);
 - ⚽️ Fun fact: I usually code at dawn during the <Flamengo> games;
+
 }

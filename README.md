@@ -13,14 +13,14 @@
 <p/>
 <br/>
 
-let ##### NOW
+##### NOW
 [
 - 👨🏽‍💻 I am a community organizer [GDG Cloud Munich](https://gdg.community.dev/gdg-cloud-munich/);
 - 🇧🇷 There is a homeland called <Brazil>, and you should check it out ;)
 
 ]
 
-const ##### BIO
+##### BIO
 {
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.svg`, `.jsx`, `.tsx`, `.py`;
 - 🌍 I'm mostly active within the **Cloud Community**;

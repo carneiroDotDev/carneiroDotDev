@@ -10,6 +10,10 @@
 <a href="https://www.linkedin.com/in/carneirodotdev/">
    <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<a href="https://www.carneiro.dev/">
+   <img align="left" alt="Luiz's personal blog" src="https://img.shields.io/badge/Personal%20Blog-8affb7?style=for-the-badge" />
+</a>
 <p/>
 <br/>
 

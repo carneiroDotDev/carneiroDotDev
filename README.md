@@ -20,7 +20,8 @@
 ##### NOW
 [
 - 👨🏽‍💻 I am a community organizer [GDG Cloud Munich](https://gdg.community.dev/gdg-cloud-munich/);
-- 🇧🇷 There is a homeland called *Brazil*, and you should check it out ;)
+- 🥨 Based and turned German in die schöne Minga;
+- 🇧🇷 Still *Brazilian* for sure ;)
 
 ]
 

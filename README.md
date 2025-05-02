@@ -28,8 +28,8 @@
 ##### BIO
 {
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.svg`, `.jsx`, `.tsx`, `.py`;
-- 🌍 I'm mostly active within the **Cloud Community**;
-- 🌱 Learning all about **Open Source**;
+- 🌍 I'm mostly active within the **Web/Cloud Community**;
+- 🌱 Learning all about **AI Engineering**;
 - 💬 Ping me about **development**, **community**, **science**;
 - 📫 Reach me: [@ Twitter](https://twitter.com/carneiroDotDev) or [@ LinkedIn](https://www.linkedin.com/in/carneirodotdev/);
 - ⚽️ Fun fact: I usually code at dawn during the <Flamengo> games;

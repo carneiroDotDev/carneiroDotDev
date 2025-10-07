@@ -1,6 +1,6 @@
 ### Do you like krapfen 🥯? I love it :)
 
-#### I'm a PhD in Physics and a Full-Stack Developer working in Munich 🥨, Germany.
+#### I'm a PhD in Physics and a Cloud Solution Engineer in Munich 🥨, Germany.
 
 <p>
 <a href="https://twitter.com/carneiroDotDev">
@@ -21,14 +21,14 @@
 [
 - 👨🏽‍💻 I am a community organizer [GDG Cloud Munich](https://gdg.community.dev/gdg-cloud-munich/);
 - 🥨 Based and turned German in die schöne Minga;
-- 🇧🇷 Still *Brazilian* for sure ;)
+- 🇧🇷 Still *Brazilian* though ;)
 
 ]
 
 ##### BIO
 {
 - ⚙️ I use daily: `.js`, `.ts`, `.html`, `.css`, `.svg`, `.jsx`, `.tsx`, `.py`;
-- 🌍 I'm mostly active within the **Web/Cloud Community**;
+- 🌍 I'm mostly active within the **Web/Cloud/AI Community**;
 - 🌱 Learning all about **AI Engineering**;
 - 💬 Ping me about **development**, **community**, **science**;
 - 📫 Reach me: [@ Twitter](https://twitter.com/carneiroDotDev) or [@ LinkedIn](https://www.linkedin.com/in/carneirodotdev/);
